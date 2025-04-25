@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Driver_Motor_Project")(type "KiCad")(uri "${KIPRJMOD}/Driver_Motor_Project.kicad_sym")(options "")(descr ""))
+  (lib (name "Transistor_Project")(type "KiCad")(uri "/Users/phakink/Downloads/Transistor_Project.kicad_sym")(options "")(descr ""))
+)
